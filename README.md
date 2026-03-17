@@ -56,5 +56,5 @@ Microservices-based backend simulating a public **scooter rental system**.
 ## Contact
 - Location: Tandil, Buenos Aires, Argentina
 - Remote: available
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO (reemplazar)
-- Email: tu.email@dominio.com (reemplazar)
+- LinkedIn: https://www.linkedin.com/in/valentin-juarez-9583a5324/
+- Email: valenjua06@gmail.com
