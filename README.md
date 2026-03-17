@@ -40,7 +40,7 @@ React Native + Expo app to track shooting performance with **statistics** and **
 
 ### Scooter Microservices System (Backend)
 Microservices-based backend simulating a public **scooter rental system**.
-- Focus: microservices architecture, inter-service communication, and scalable design
+- Contributed to backend microservices development, REST APIs and system design.
 
 ## What I Work With
 - **REST APIs**, **microservices**, and backend design
